@@ -22,13 +22,13 @@ p {
 }
 
 a {
-	color: #5ff880;
+	color: #05ad2a;
 	border-bottom: 2px solid transparent;
 	transition: all 0.5s ease-in-out;
 }
 
 a:hover {
-	color: #fbf97a;
+	color: #f604d6;
 	border-bottom: 2px solid #002348;
 }
 
@@ -68,7 +68,7 @@ a:hover {
 }
 
 .main-article {
-	background-color: #e2e2e2;
+	background-color: #ade4fc;
 	padding: 1.6rem;
 	width: 100%;
 	margin: 0 0 1.6rem;
@@ -97,7 +97,7 @@ a:hover {
 	width: 100%;
 	padding: 1.6rem;
 	background-color: #323232;
-	color: #f2f2f2;
+	color: #ea35a4;
 	margin: 0 0 1.6rem;
 	font-size: 0.9rem;
 }
@@ -107,7 +107,7 @@ a:hover {
 }
 
 .main-sidebar_thumb .caption {
-	color: #f2f2f2;
+	color: #ee71d5;
 	font-size: 0.8rem;
 	font-style: italic;
 	line-height: 1;
